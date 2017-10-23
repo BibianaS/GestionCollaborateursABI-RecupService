@@ -1,0 +1,17 @@
+﻿#entete {
+    background-color: #1F4E79;
+    padding:50% 0% 3% 20px;   
+    color: white;
+}
+
+#wrapper {
+    padding-top: 10%;
+    
+}
+body {
+    font-size: 34px;
+}
+
+#busy{
+    color:white;
+}
